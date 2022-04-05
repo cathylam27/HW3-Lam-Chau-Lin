@@ -12,7 +12,7 @@ This is our first Python Quiz Game of MultiMedia Authoring class.
 We need to complete the homework requirement for creating a Python Game with a repository and branches for a project on Github, and submit it to FOL.
 
 # Chau Lin Lam (Cathy) License
-Copyright (c) 2022 Chau Lin Lam
+Copyright (c) 2022 Chau Lin Lam (Cathy)
 
 1) This software is welcome to free download, use, copy, modify and combine.
 2) This software is for the author's learning and cannot be used for any commercial purposes.
